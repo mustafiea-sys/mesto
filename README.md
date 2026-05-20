@@ -51,7 +51,7 @@ https://www.figma.com/file/PSdQFRHoxXJFs2FH8IXViF/JavaScript-9-sprint?node-id=0%
 <div align="right">(<a href="#summary">к оглавлению</a>)</div>
 
 <a name="installation"><h2>3. Установка и запуск проекта в локальном репозитории</h2></a>
-1. `git clone https://elrouss.github.io/mesto.git` - клонировать репозиторий (с использованием HTTPS) на свое устройство
+1. `git clone https://github.com/mustafiea-sys/mesto` - клонировать репозиторий (с использованием HTTPS) на свое устройство
 2. `npm i` - установить зависимости
 3. `npm run dev` - запустить приложение в режиме разработчика (в браузере ввести ссылку `http://localhost:8080/`, если приложение не открылось там автоматически)
 
